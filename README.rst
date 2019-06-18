@@ -1,8 +1,8 @@
 Example data analysis package (content completely borrowed from `AGU 2018 OSS workshop <https://github.com/opengeophysics/2018-agu-oss-example-repo>`_)
 =============================
 
-.. image:: https://travis-ci.org/opengeophysics/2018-agu-oss-example-repo.svg?branch=master
-    :target: https://travis-ci.org/opengeophysics/2018-agu-oss-example-repo
+.. image:: https://api.travis-ci.org/ishan-mishra/2019-eres-v-example.svg?branch=master
+    :target: https://travis-ci.org/ishan-mishra/2019-eres-v-example
     
 .. image:: https://readthedocs.org/projects/2018-agu-oss-example-repo/badge/?version=latest
     :target: https://2018-agu-oss-example-repo.readthedocs.io/en/latest/?badge=latest
