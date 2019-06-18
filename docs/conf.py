@@ -14,13 +14,9 @@
 #
 import os
 import sys
-<<<<<<< HEAD
+
 #sys.path.insert(0, os.path.abspath(r'C:\Users\ishan\Box\Grad School Stuff\Conferences_Workshops\ERES V\Github workshop\2018-agu-oss-example-repo'))
 sys.path.insert(0,os.path.abspath('../'))
-=======
-sys.path.insert(0, os.path.abspath('../'))
-
->>>>>>> 3899e01f95e882477952aae1b185ef06b9bcd412
 
 # -- Project information -----------------------------------------------------
 
