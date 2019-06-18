@@ -1,4 +1,4 @@
-Example data analysis package (content completely borrowed from `AGU 2018 OSS workshop <https://github.com/opengeophysics/2018-agu-oss-example-repo>`_.
+Example data analysis package (content completely borrowed from `AGU 2018 OSS workshop <https://github.com/opengeophysics/2018-agu-oss-example-repo>`_)
 =============================
 
 .. image:: https://travis-ci.org/opengeophysics/2018-agu-oss-example-repo.svg?branch=master
