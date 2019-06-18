@@ -21,8 +21,8 @@ Installing
 
 .. code:: bash
 
-    $ git clone https://github.com/opengeophysics/2018-agu-oss-example-repo
-    $ cd 2018-agu-oss-example-repo
+    $ git clone https://github.com/ishan-mishra/2019-eres-v-example.git
+    $ cd 2019-eres-v-example
     $ pip install -e .
 
 
