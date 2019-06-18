@@ -4,8 +4,8 @@ Example data analysis package (content completely borrowed from `AGU 2018 OSS wo
 .. image:: https://api.travis-ci.org/ishan-mishra/2019-eres-v-example.svg?branch=master
     :target: https://travis-ci.org/ishan-mishra/2019-eres-v-example
     
-.. image:: https://readthedocs.org/projects/2018-agu-oss-example-repo/badge/?version=latest
-    :target: https://2018-agu-oss-example-repo.readthedocs.io/en/latest/?badge=latest
+.. image:: https://2019-eres-v-example.readthedocs.io/en/latest/?badge=latest
+    :target: https://2019-eres-v-example.readthedocs.io/en/latest/
     :alt: Documentation Status
 
 About
